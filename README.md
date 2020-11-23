@@ -17,3 +17,6 @@ The dataset contains two folders namely 'easy_ham' & 'spam' containing examples 
 Here our requirement is to filter out spam emails and get ham emails. it is crucial that we should not miss any important email (ham) by misclassifying it as spam. So we need a high precision model rather than high recall. High precision ensures that whichever model is classified as spam will most probably be spam actually. 
 precision=true positives/(true positives+false positives)
 
+#### Credits & References: 
+This project is done under the guidance of Mr.Rajtilak Bhattacharjee,Machine Learning Engineer @ CloudxLab.com.
+Profile link:https://cloudxlab.com/p/rajtilak-bhattacharjee-9vrdrq1j/ 
